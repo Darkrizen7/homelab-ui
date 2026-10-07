@@ -1,0 +1,8 @@
+[package]
+name = "homelab-ui"
+version = "0.1.0"
+edition = "2024"
+description = "Shared look of the homelab panels: style, helpers, fonts and icon, embedded in the binary"
+# The fonts are under the SIL Open Font License 1.1 (assets/fonts/*-OFL.txt).
+
+[dependencies]
